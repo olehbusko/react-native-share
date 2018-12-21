@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1E70C03721CBE4E300C76F1C /* libWeChatSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E70C03521CBE4E300C76F1C /* libWeChatSDK.a */; };
+		1EE77D2021CCFB8D00BCA47B /* WechatShare.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EE77D1F21CCFB8D00BCA47B /* WechatShare.m */; };
 		B33C22851D441713006BCD98 /* GenericShare.m in Sources */ = {isa = PBXBuildFile; fileRef = B33C22841D441713006BCD98 /* GenericShare.m */; };
 		B33C22891D4419E8006BCD98 /* WhatsAppShare.m in Sources */ = {isa = PBXBuildFile; fileRef = B33C22881D4419E8006BCD98 /* WhatsAppShare.m */; };
 		B33C228B1D442577006BCD98 /* EmailShare.m in Sources */ = {isa = PBXBuildFile; fileRef = B33C228A1D442576006BCD98 /* EmailShare.m */; };
@@ -33,6 +34,8 @@
 		1E70C03421CBE4E200C76F1C /* WXApiObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApiObject.h; sourceTree = "<group>"; };
 		1E70C03521CBE4E300C76F1C /* libWeChatSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWeChatSDK.a; sourceTree = "<group>"; };
 		1E70C03621CBE4E300C76F1C /* WXApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApi.h; sourceTree = "<group>"; };
+		1EE77D1F21CCFB8D00BCA47B /* WechatShare.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WechatShare.m; sourceTree = "<group>"; };
+		1EE77D2121CCFB9F00BCA47B /* WechatShare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WechatShare.h; sourceTree = "<group>"; };
 		B33C22841D441713006BCD98 /* GenericShare.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GenericShare.m; sourceTree = "<group>"; };
 		B33C22861D441723006BCD98 /* GenericShare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GenericShare.h; sourceTree = "<group>"; };
 		B33C22871D4419DA006BCD98 /* WhatsAppShare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WhatsAppShare.h; sourceTree = "<group>"; };
@@ -93,6 +96,8 @@
 				B33C228C1D442583006BCD98 /* EmailShare.h */,
 				B3EEE48D1D4844E7008422B6 /* GooglePlusShare.m */,
 				B3EEE48F1D4844F4008422B6 /* GooglePlusShare.h */,
+				1EE77D1F21CCFB8D00BCA47B /* WechatShare.m */,
+				1EE77D2121CCFB9F00BCA47B /* WechatShare.h */,
 			);
 			name = social;
 			sourceTree = "<group>";
@@ -155,6 +160,7 @@
 			files = (
 				CE0C76371E9E7DE100ED396E /* InstagramShare.m in Sources */,
 				B3EEE48E1D4844E7008422B6 /* GooglePlusShare.m in Sources */,
+				1EE77D2021CCFB8D00BCA47B /* WechatShare.m in Sources */,
 				B3E7B58A1CC2AC0600A0062D /* RNShare.m in Sources */,
 				B33C22891D4419E8006BCD98 /* WhatsAppShare.m in Sources */,
 				B33C228B1D442577006BCD98 /* EmailShare.m in Sources */,
