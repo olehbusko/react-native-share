@@ -259,6 +259,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/social",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = RNShare;
@@ -278,6 +279,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/social",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = RNShare;
