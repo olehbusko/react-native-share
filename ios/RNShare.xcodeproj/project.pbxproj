@@ -36,6 +36,7 @@
 		1E70C03621CBE4E300C76F1C /* WXApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApi.h; sourceTree = "<group>"; };
 		1EE77D1F21CCFB8D00BCA47B /* WechatShare.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WechatShare.m; sourceTree = "<group>"; };
 		1EE77D2121CCFB9F00BCA47B /* WechatShare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WechatShare.h; sourceTree = "<group>"; };
+		1EE77D2221CD022800BCA47B /* WechatAuthSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WechatAuthSDK.h; sourceTree = "<group>"; };
 		B33C22841D441713006BCD98 /* GenericShare.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GenericShare.m; sourceTree = "<group>"; };
 		B33C22861D441723006BCD98 /* GenericShare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GenericShare.h; sourceTree = "<group>"; };
 		B33C22871D4419DA006BCD98 /* WhatsAppShare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WhatsAppShare.h; sourceTree = "<group>"; };
@@ -98,6 +99,7 @@
 				B3EEE48F1D4844F4008422B6 /* GooglePlusShare.h */,
 				1EE77D1F21CCFB8D00BCA47B /* WechatShare.m */,
 				1EE77D2121CCFB9F00BCA47B /* WechatShare.h */,
+				1EE77D2221CD022800BCA47B /* WechatAuthSDK.h */,
 			);
 			name = social;
 			sourceTree = "<group>";
